@@ -1,3 +1,6 @@
+## NAME: YENDLURI CHANDANA
+## REG N0 : 212223100063
+## DATE : 13-11-2024
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
@@ -29,7 +32,13 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![Screenshot 2024-11-13 113421](https://github.com/user-attachments/assets/468b12c8-1788-49db-9b0d-857a59cca841)
+
+![Screenshot 2024-11-13 113407](https://github.com/user-attachments/assets/3b8596fe-c7ec-4393-851d-ee39514bc85b)
+
+![Screenshot 2024-11-13 112933](https://github.com/user-attachments/assets/ba202108-8e24-4663-a355-b8170622b833)
+
+
 
 
 
